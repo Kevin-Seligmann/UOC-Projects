@@ -26,6 +26,8 @@ This repository contains projects made at UOC's CFGS in Web Development.
 
 A kanban app of lists of tasks. With file uploading and live updating.
 
+---
+
 *Senderos Y Montañas*
 
 [Source repository](https://github.com/kevinsuoc/POO-BBDD)
@@ -44,6 +46,8 @@ A kanban app of lists of tasks. With file uploading and live updating.
 **Description**
 
 Excursions app where the admin can create different type of client, excursions and inscriptions. Writen following a provided class diagram and specifications.
+
+---
 
 *Transfer 1*
 

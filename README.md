@@ -2,6 +2,8 @@
 
 This repository contains projects made at UOC's CFGS in Web Development.
 
+---
+
 *Kanban*
 
 [Source repository](https://github.com/kevinsuoc/Fullstackers-producto-4)

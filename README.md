@@ -43,8 +43,7 @@ A kanban app of lists of tasks. With file uploading and live updating.
 
 Excursions app where the admin can create different type of client, excursions and inscriptions. Writen following a provided class diagram and specifications.
 
-
-* Transfer 1 *
+*Transfer 1*
 
 [Source repository](https://github.com/kevinsuoc/FP.064-TransfersApp/tree/main/producto%202)
 
@@ -62,7 +61,7 @@ Excursions app where the admin can create different type of client, excursions a
 
 App about transfers. With types of user admin and regular. User authentication, sessions, DB Access. Writen only with PHP.
 
-* Transfer 2 *
+*Transfer 2*
 
 [Source repository](https://github.com/kevinsuoc/FP.064-TransfersApp/tree/main/producto%203)
 
@@ -79,7 +78,7 @@ App about transfers. With types of user admin and regular. User authentication, 
 
 A more feature rich version of the first version of the app. Writen in Laravel.
 
-* Transfer 3 *
+*Transfer 3*
 
 [Source repository](https://github.com/kevinsuoc/FP.064-TransfersApp/tree/main/producto%204)
 

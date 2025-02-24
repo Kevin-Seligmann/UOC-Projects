@@ -1,9 +1,10 @@
 *UOC Projects*
+
 This repository contains projects made at UOC's CFGS in Web Development.
 
 *Kanban*
 
-[Source repository] (https://github.com/kevinsuoc/Fullstackers-producto-4)
+[Source repository](https://github.com/kevinsuoc/Fullstackers-producto-4)
 
 **Technologies**
 
@@ -25,7 +26,7 @@ A kanban app of lists of tasks. With file uploading and live updating.
 
 *Senderos Y Montañas*
 
-[Source repository] (https://github.com/kevinsuoc/POO-BBDD)
+[Source repository](https://github.com/kevinsuoc/POO-BBDD)
 
 **Technologies**
 
@@ -45,7 +46,7 @@ Excursions app where the admin can create different type of client, excursions a
 
 * Transfer 1 *
 
-[Source repository] (https://github.com/kevinsuoc/FP.064-TransfersApp/tree/main/producto%202)
+[Source repository](https://github.com/kevinsuoc/FP.064-TransfersApp/tree/main/producto%202)
 
 **Technologies**
 
@@ -63,7 +64,7 @@ App about transfers. With types of user admin and regular. User authentication, 
 
 * Transfer 2 *
 
-[Source repository] (https://github.com/kevinsuoc/FP.064-TransfersApp/tree/main/producto%203)
+[Source repository](https://github.com/kevinsuoc/FP.064-TransfersApp/tree/main/producto%203)
 
 **Technologies**
 
@@ -80,7 +81,7 @@ A more feature rich version of the first version of the app. Writen in Laravel.
 
 * Transfer 3 *
 
-[Source repository] (https://github.com/kevinsuoc/FP.064-TransfersApp/tree/main/producto%204)
+[Source repository](https://github.com/kevinsuoc/FP.064-TransfersApp/tree/main/producto%204)
 
 - PHP
 - WordPress

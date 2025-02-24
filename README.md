@@ -1,12 +1,12 @@
-#UOC Projects
+# UOC Projects
 
 This repository contains projects made at UOC's CFGS in Web Development.
 
-#Kanban
+# Kanban
 
 [Source repository](https://github.com/kevinsuoc/Fullstackers-producto-4)
 
-##Technologies
+## Technologies
 
 - JavaScript
 - NodeJS
@@ -20,17 +20,15 @@ This repository contains projects made at UOC's CFGS in Web Development.
 - MVC pattern
 - Drag&Drop API
 
-##Description
+## Description
 
 A kanban app of lists of tasks. With file uploading and live updating.
 
----
-
-#Senderos Y Montañas
+# Senderos Y Montañas
 
 [Source repository](https://github.com/kevinsuoc/POO-BBDD)
 
-##Technologies
+## Technologies
 
 - MySQL
 - Hibernate ORM
@@ -41,15 +39,15 @@ A kanban app of lists of tasks. With file uploading and live updating.
 - MVC Pattern
 - DAO Pattern
 
-##Description
+## Description
 
 Excursions app where the admin can create different type of client, excursions and inscriptions. Writen following a provided class diagram and specifications.
 
-#Transfer 1
+# Transfer 1
 
 [Source repository](https://github.com/kevinsuoc/FP.064-TransfersApp/tree/main/producto%202)
 
-##Technologies
+## Technologies
 
 - PHP
 - Docker
@@ -59,15 +57,15 @@ Excursions app where the admin can create different type of client, excursions a
 - Bootstrap
 - MVC Pattern
 
-##Description
+## Description
 
 App about transfers. With types of user admin and regular. User authentication, sessions, DB Access. Writen only with PHP.
 
-#Transfer 2*
+# Transfer 2
 
 [Source repository](https://github.com/kevinsuoc/FP.064-TransfersApp/tree/main/producto%203)
 
-##Technologies
+## Technologies
 
 - PHP
 - Laravel
@@ -78,15 +76,15 @@ App about transfers. With types of user admin and regular. User authentication, 
 - Bootstrap
 - MVC Pattern
 
-##Description
+## Description
 
 A more feature rich version of the first version of the app. Writen in Laravel.
 
-#Transfer 3
+# Transfer 3
 
 [Source repository](https://github.com/kevinsuoc/FP.064-TransfersApp/tree/main/producto%204)
 
-##Technologies
+## Technologies
 
 - PHP
 - WordPress
@@ -94,7 +92,7 @@ A more feature rich version of the first version of the app. Writen in Laravel.
 - Apache
 - MySQL
 
-##Description
+## Description
 
 A WordPress website that calls a REST API from the second version of the project to display information. 
 
